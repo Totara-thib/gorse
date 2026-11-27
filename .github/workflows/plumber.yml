@@ -12,6 +12,7 @@ on:
   push:
     branches:
       - master
+      - tmp-ci-run
   pull_request:
     branches:
       - master
