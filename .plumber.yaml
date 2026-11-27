@@ -20,3 +20,5 @@ github:
         - svenstaro/upload-release-action
         # Translates issues and comments to English (translate_issues.yml)
         - tomsun28/issues-translate-action
+        # Fork only: on gorse-io/gorse this action is same-owner and trusted by default
+        - gorse-io/redis-cluster
